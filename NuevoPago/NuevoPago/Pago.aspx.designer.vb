@@ -23,83 +23,83 @@ Partial Public Class Pago
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
     
     '''<summary>
-    '''TextBox1 control.
+    '''TXT_PagoId control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox1 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_PagoId As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''TextBox2 control.
+    '''TXT_Detalle control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox2 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_Detalle As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''TextBox8 control.
+    '''TXT_TipoPago control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox8 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_TipoPago As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''TextBox3 control.
+    '''TXT_Empresa control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox3 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_Empresa As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''TextBox9 control.
+    '''TXT_Beneficiario control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox9 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_Beneficiario As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''DropDownList1 control.
+    '''LIST_PeriodoPago control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents DropDownList1 As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents LIST_PeriodoPago As Global.System.Web.UI.WebControls.DropDownList
     
     '''<summary>
-    '''TextBox5 control.
+    '''TXT_FechaPago control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox5 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_FechaPago As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''TextBox6 control.
+    '''TXT_Pagado control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox6 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_Pagado As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
-    '''TextBox7 control.
+    '''TXT_PersonaPago control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox7 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents TXT_PersonaPago As Global.System.Web.UI.WebControls.TextBox
 End Class
